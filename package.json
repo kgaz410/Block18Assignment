@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "block18",
+  "version": "1.0.0",
+  "main": "multi.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jest-test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
